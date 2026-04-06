@@ -1,8 +1,9 @@
-# ngx-graph
+# ngx-graph by swimlane
 
 [![Join the chat at https://gitter.im/swimlane/ngx-graph](https://badges.gitter.im/swimlane/ngx-graph.svg)](https://gitter.im/swimlane/ngx-graph?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-A Graph visualization for angular
+A forked Graph visualization for angular originally by swimlane
+WARNING - This project is not maintained here and you should consider using the official package by swimlane - WARNING
 
 ## Documentation & Demos
 
